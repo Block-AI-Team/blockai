@@ -1,0 +1,5 @@
+{
+    "status": false,
+    "error": "abort(Error: Invalid JSON RPC response: {\"errors\":[{\"msg\":\"Unauthorized token or user not found. Please try again.\",\"code\":\"UNAUTHORIZED_REQUEST\"}]}). Build with -s ASSERTIONS=1 for more info.",
+    "stack": "RuntimeError: abort(Error: Invalid JSON RPC response: {\"errors\":[{\"msg\":\"Unauthorized token or user not found. Please try again.\",\"code\":\"UNAUTHORIZED_REQUEST\"}]}). Build with -s ASSERTIONS=1 for more info.\n    at process.abort (/Users/purushottamchaudhary/development/sample/dl-unify-ruffle-cli/node_modules/solc/soljson.js:1:13012)\n    at process.emit (events.js:412:35)\n    at processPromiseRejections (internal/process/promises.js:245:33)\n    at processTicksAndRejections (internal/process/task_queues.js:96:32)"
+}
